@@ -694,6 +694,7 @@
 - [Practical PHP: Master the Basics and Code Dynamic Websites](https://www.udemy.com/code-dynamic-websites/ "Practical PHP: Master the Basics and Code Dynamic Websites")
 ## Python
 - [Introduction To Python Programming](https://www.udemy.com/pythonforbeginnersintro/)
+- [Python programming for beginners](https://learn.practicepedia.in/courses/learn-python-for-beginners/)
 
 - [Python for Absolute Beginners](https://www.udemy.com/python-for-absolute-beginners-u/)
 
